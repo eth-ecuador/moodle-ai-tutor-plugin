@@ -1,0 +1,5 @@
+.block_chatembed iframe {
+    border: none;
+    max-width: 100%;
+    min-height: 500px;
+}
